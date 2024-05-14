@@ -2,12 +2,10 @@
 
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 
-<!-- [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash) -->
-<!-- [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-) -->
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (Python,C,C++, HTML5, CSS3, Javascript, Responsive, UX),Database(MongoDB,Mysql).
+Full Stack Software Engineer
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (Python, ASP.Net), design (working closely with designers), front-end development (Python,C,C++, HTML5, CSS3, Javascript, Responsive, UX),Database(MongoDB,Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aayush2694/count.svg)
